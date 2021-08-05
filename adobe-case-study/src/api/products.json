@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Creative Cloud All Apps",
+        "perMonthSubscriptionPrice": 4230.30,
+        "isGSTInclusive": true
+
+    },
+    {
+        "name": "Photoshop",
+        "perMonthSubscriptionPrice": 1675.60,
+        "isGSTInclusive": true
+
+    },
+    {
+        "name": "Illustrator",
+        "perMonthSubscriptionPrice": 1675.60,
+        "isGSTInclusive": true
+
+    },
+    {
+        "name": "Premiere Rush",
+        "perMonthSubscriptionPrice": 1675.60,
+        "isGSTInclusive": true
+
+    },
+    {
+        "name": "After Effects",
+        "perMonthSubscriptionPrice": 1675.60,
+        "isGSTInclusive": true
+
+    }
+
+]
